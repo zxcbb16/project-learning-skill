@@ -151,7 +151,6 @@ Stage A 信息收集  ──►  Stage B 深度分析  ──►  Stage C 文档
 ```
 <项目名>-study/
 ├── README.md                     # 总入口（见 3.1）
-├── LICENSE
 └── docs/
     ├── 01-<领域基础>/README.md
     ├── 02-<项目概览>/README.md
